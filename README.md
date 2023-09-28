@@ -3,7 +3,7 @@
 project dataset:
 https://drive.google.com/file/d/1LIvIdqdHDFEGnfzIgEh4L6GFirzsE3US/view?usp=sharing
 
-Random Forest Classifier is giving the best accuracy with an accuracy
+Random Forest Classifier is giving the best accuracy
 in comparison with
 KNeighborsClassifiers
 RandomForestClassifiers
